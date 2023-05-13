@@ -1,0 +1,13 @@
+
+@media only screen and (max-width: 800px){
+.navbar-collapse.collapse {
+    padding-left: 20px !important;
+    top: 49px !important;
+}	
+.navbar-collapse{
+	max-height: inherit !important;
+}
+.navbar-brand{
+padding:0 !important;
+}
+}
